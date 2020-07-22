@@ -9,5 +9,5 @@ python setup.py instal
 import weather_package
 
 ########### Use
-weather_package.predict()
+weather_package.forecast()
 
