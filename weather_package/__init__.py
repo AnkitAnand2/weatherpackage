@@ -1,5 +1,5 @@
 import requests
-def predict():
+def forecast():
     print("Welcome to the Weather Forecasting Platform")
     city=input("Enter the City Name you want the forecast for: ")
     
