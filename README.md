@@ -10,6 +10,7 @@ import weather_package
 
 ########### Use
 weather_package.forecast()
+
 Enter the City you want to forecast : 
 
 ####################### Return Type
